@@ -1,0 +1,21 @@
+body{
+    background: rgb(0, 102, 255);
+}
+section{
+    text-align: center;
+    background: white;
+    width: 700px;
+    margin: auto;
+    height: 500px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px black;
+}
+p3{
+    margin: 50px;
+}
+p4{
+    margin: 80px
+}
+h1{
+    font-size: 20pt;
+}
